@@ -2,7 +2,7 @@
 
 Free Renagul Gheni, sister of Kalbinur Gheni.
 
-Read her story: [BookOfRenagul](BookOfRenagul/BookOfRenagul.pdf)  
+Read her [story](BookOfRenagul/BookOfRenagul.pdf)  
 
 Check the campaigns: 
 * [Social media campaign](SocialMediaCampaign/SocialMediaCampaign.md) 
