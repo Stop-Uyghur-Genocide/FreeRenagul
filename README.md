@@ -1,6 +1,6 @@
 # #FreeRenagul
 
-Free Renagul Gheni, sister of Kalbinur Gheni.
+Free Renagul Gheni, mother of 2, sister of Kalbinur Gheni.
 
 Read her [story](BookOfRenagul/BookOfRenagul.pdf)  
 
