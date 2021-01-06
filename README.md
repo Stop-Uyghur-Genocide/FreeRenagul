@@ -2,7 +2,8 @@
 
 Free Renagul Gheni, mother of 2, sister of Kalbinur Gheni.
 
-|![WithSons](BookOfRenagul/WithSons.jpg)|![WithSister](BookOfRenagul/WithSister.jpg)|
+![WithSons](BookOfRenagul/WithSons.jpg)
+![WithSister](BookOfRenagul/WithSister.jpg)
 
 Read her [story](BookOfRenagul/BookOfRenagul.pdf)  
 
