@@ -5,5 +5,5 @@ Kalbinur Gheni
 https://twitter.com/Qelbinur10/status/1214058448310210560
 
 Gyula Csom  
-@csomgyula
+@csomgyula  
 https://twitter.com/csomgyula/status/1314973196735700992
