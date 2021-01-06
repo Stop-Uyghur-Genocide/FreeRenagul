@@ -1,6 +1,6 @@
 # #FreeRenagul
 
-Free Renagul Renagul Gheni, sister of Kalbinur Gheni.
+Free Renagul Gheni, sister of Kalbinur Gheni.
 
 Read her story: [BookOfRenagul](BookOfRenagul/BookOfRenagul.pdf)  
 
