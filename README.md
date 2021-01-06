@@ -8,4 +8,4 @@ Check the campaigns:
 * [Social media campaign](SocialMediaCampaign/SocialMediaCampaign.md) 
 * [Chinese consulate campaign](ChineseConsulateCampaign)
 
-Follow her sister: https://twitter.com/Qelbinur10
+Follow her sister on Twitter: https://twitter.com/Qelbinur10
