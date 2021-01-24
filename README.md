@@ -10,6 +10,8 @@ Read her [story](BookOfRenagul/BookOfRenagul.pdf) ([magyarul](BookOfRenagul/Book
 Check the campaigns: 
 * [Social media campaign](SocialMediaCampaign/SocialMediaCampaign.md) 
 * [Chinese consulate campaign](ChineseConsulateCampaign)
-* [Hungarian consulate campaign](HungarianConsulateCampaign)
+* Escalation to [Hungarian law makers](HungarianLawMakersCampaign):
+  * [to the Hungarian consulate](HungarianLawMakersCampaign/Consulate)
+  * [to the Hungarian Foreign Minister](HungarianLawMakersCampaign/ForeignMinister)
 
 Follow her sister on Twitter: https://twitter.com/Qelbinur10
