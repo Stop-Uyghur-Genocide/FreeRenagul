@@ -9,9 +9,9 @@ Read her [story](BookOfRenagul/BookOfRenagul.pdf) ([magyarul](BookOfRenagul/Book
 
 Check the campaigns: 
 * [Social media campaign](SocialMediaCampaign/SocialMediaCampaign.md) 
-* [Chinese consulate campaign](ChineseConsulateCampaign)
-* Escalation to [Hungarian law makers](HungarianLawMakersCampaign):
-  * [to the Hungarian consulate](HungarianLawMakersCampaign/Consulate)
-  * [to the Hungarian Foreign Minister](HungarianLawMakersCampaign/ForeignMinister)
+* [Hungarian campaing](HungairanCampaign)
+  1. Email to [China's Hungary consulate](HungarianCampaign/1_ChinaHungaryConsulate)
+  2. Email to [Hungary's China consulate](HungarianCampaign/2_HungaryChinaConsulate)
+  3. Email to [Hungarian Foreign Minister](HungarianCampaign/3_HungarianForeignMinister)
 
 Follow her sister on Twitter: https://twitter.com/Qelbinur10
